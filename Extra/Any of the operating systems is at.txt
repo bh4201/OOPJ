@@ -1,0 +1,6 @@
+Any of the operating systems is at least dependent on one piece of hardware. It could be the CPU. Hardware-dependent is a type of programming language that is specifically designed for certain hardware devices. The OS acts as the translator between the hardware and the computer user. A physical component that is required for the system functioning is required to start the computer. Communication is possible between hardware and software that makes application programs available for the computer programs.
+
+OS is chosen for a compatible platform as it will have the ability to have two systems working together without alteration. The software applications make use of similar data formats. With the help of compatibility, performance potential could be achieved at the maximum rate.
+-----------------------------
+
+
